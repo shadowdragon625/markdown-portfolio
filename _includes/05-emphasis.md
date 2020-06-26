@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My skills are _**undoubtably**_ in Mathematics (_Calculus III_), and I _hope_ that I will learn Python and C++ instead of __Java, of all langagues...__
